@@ -2,10 +2,10 @@
 ### Objective
 Analyze monthly revenue and order volume using SQL to gain insights from e-commerce order data.
 
-### Dataset
+### Dataset:
 **Table Name: online_sales**
 
-Columns:
+### Columns:
 
 order_date
 
@@ -13,7 +13,7 @@ order_amount
 
 product_id
 
-### Skills & Concepts Applied
+### Skills & Concepts Applied:
 EXTRACT(MONTH FROM order_date) to get monthly data
 
 GROUP BY year/month
@@ -26,7 +26,7 @@ ORDER BY for sorting results
 
 Filtering for specific time periods using WHERE clause
 
-### Sample Queries
+### Sample Queries:
 Monthly revenue trend
 
 Monthly order volume
@@ -37,7 +37,7 @@ Revenue growth over time
 
 Top products by revenue and order count
 
-✅ Outcome
+### Outcome:
 Learned how to group data by time-based features
 
 Analyzed trends in customer orders and sales performance
